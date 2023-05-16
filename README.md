@@ -1,11 +1,11 @@
-About pybobyqa
-==============
+About pybobyqa-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pybobyqa-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/numericalalgorithmsgroup/pybobyqa
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pybobyqa-feedstock/blob/main/LICENSE.txt)
 
 Summary: Derivative-Free Solver for Bound-Constrained Minimization
 
