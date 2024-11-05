@@ -1,5 +1,5 @@
 {% set name = "pybobyqa" %}
-{% set version = "1.4.1" %}
+{% set version = "1.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/numericalalgorithmsgroup/{{ name }}/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: 08c22f85e509949e2e1b8ead7bcfe41de46fe75a1d7ee305bbbe89f460f2ee13
+  sha256: 54ea42c07b5d47832d5f7c2b6e03126884b23761753e14eb30a3dacca2cfcf7f
 
 build:
   noarch: python
